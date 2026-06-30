@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignalXpert</string>
+    <string name="title_activity_speedtest">speedtest</string>
+    <string name="title_activity_videotest">videotest</string>
+    <string name="title_activity_map">map</string>
+    <string name="title_activity_cellular">cellular</string>
+    <string name="title_activity_browsingtest">browsingtest</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
